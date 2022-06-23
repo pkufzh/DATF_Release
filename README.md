@@ -631,9 +631,9 @@ num_da_arr=[(12:7:75),(76:5:186),(208:5:288),(290:3:320),(321:5:376),(377:4:405)
 
 ------
 
-**本仓库中的所有关于数据同化核心代码全部由作者原创。任何形式的转发引用请务必注意标明出处！请尊重作者劳动成果！**
+<font color = 'red'>**注意：本程序测试平台采用 In-house CFD codes，无法开源，故用户需要自己提供主程序端口，本程序仅提供湍流数据同化框架。**</font>
 
-注意！！作者**暂时无法提供**流场求解器程序，用户可以添加其他求解器接口进行测试。
+<font color = 'red'>**本仓库中的所有关于数据同化核心代码全部由作者原创。任何形式的转发引用请务必注意标明出处！请尊重作者劳动成果！**</font>
 
 ------
 
@@ -643,7 +643,7 @@ If you think this project is helpful to you, do not hesitate to *Light a Star* ~
 
 Uploaded by ***pkufzh (Small Shrimp)*** on ***2022/06/23*** .
 
-*This project is protected by the Creative Commons Zero v1.0 Universal (CC) license. Please obey the open source rules strictly.*
+*This project is protected by the MIT license. Please obey the open source rules strictly.*
 
 ------
 
